@@ -1,0 +1,225 @@
+ECE 3111,MICROCONTROLLER LAB,LAB,CORE,V,2.00,C,BATCH-2,69,ECE 3112,VLSI LAB,LAB,CORE,V,1.00,C,BATCH-2,69,ECE 3101,LINEAR AND DIGITAL CONTROL SYSTEMS,THEORY,CORE,V,3.00,C,,69,ECE 3102,MICROCONTROLLERS,THEORY,CORE,V,3.00,C,,69,ECE 3103,ANALOG COMMUNICATION,THEORY,CORE,V,4.00,C,,69,ECE 3104,VLSI DESIGN,THEORY,CORE,V,4.00,C,,69,ECE 3105,COMMUNICATION NETWORKS,THEORY,CORE,V,3.00,C,,69,ECE 3106,COMPUTER ORGANIZATION AND ARCHITECTURE,THEORY,CORE,V,3.00,C,,69,2019-2020,ECE 3101,LINEAR AND DIGITAL CONTROL SYSTEMS,V,24,24,0,100.00,2019-2020,ECE 3102,MICROCONTROLLERS,V,21,21,0,100.00,2019-2020,ECE 3103,ANALOG COMMUNICATION,V,30,29,1,97.00,2019-2020,ECE 3104,VLSI DESIGN,V,27,26,1,97.00,2019-2020,ECE 3105,COMMUNICATION NETWORKS,V,20,20,0,100.00,2019-2020,ECE 3106,COMPUTER ORGANIZATION AND ARCHITECTURE,V,23,23,0,100.00,2019-2020,ECE 3111,MICROCONTROLLER LAB,V,7,7,0,100.00,2019-2020,ECE 3112,VLSI LAB,V,8,8,0,100.00,Internal Sessional 1,15.00,13.00,Total Marks,15.00,13.00,Assignment 1,5.00,4.00,Total Marks,5.00,4.00,Internal Sessional 1,15.00,13.00,Total Marks,15.00,13.00,Internal Sessional 1,15.00,13.00,Total Marks,15.00,13.00,Internal Sessional 1,15.00,14.50,Total Marks,15.00,14.50,Internal Sessional 1,15.00,12.50,Total Marks,15.00,12.50,Internal Sessional 1,15.00,13.50,Total Marks,15.00,13.50,Assignment 1,5.00,5.00,Assignment 2,5.00,5.00,Total Marks,10.00,10.00,
+                                                            22 Jul 2019
+                                                        ,
+                                                            Monday
+                                                        ,
+                                                            ECE 3103
+                                                        ,
+                                                            ANALOG COMMUNICATION
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            22 Jul 2019
+                                                        ,
+                                                            Monday
+                                                        ,
+                                                            ECE 3101
+                                                        ,
+                                                            LINEAR AND DIGITAL CONTROL SYSTEMS
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            23 Jul 2019
+                                                        ,
+                                                            Tuesday
+                                                        ,
+                                                            ECE 3103
+                                                        ,
+                                                            ANALOG COMMUNICATION
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            23 Jul 2019
+                                                        ,
+                                                            Tuesday
+                                                        ,
+                                                            ECE 3105
+                                                        ,
+                                                            COMMUNICATION NETWORKS
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            23 Jul 2019
+                                                        ,
+                                                            Tuesday
+                                                        ,
+                                                            ECE 3102
+                                                        ,
+                                                            MICROCONTROLLERS
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            23 Jul 2019
+                                                        ,
+                                                            Tuesday
+                                                        ,
+                                                            ECE 3104
+                                                        ,
+                                                            VLSI DESIGN
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            24 Jul 2019
+                                                        ,
+                                                            Wednesday
+                                                        ,
+                                                            ECE 3105
+                                                        ,
+                                                            COMMUNICATION NETWORKS
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            24 Jul 2019
+                                                        ,
+                                                            Wednesday
+                                                        ,
+                                                            ECE 3106
+                                                        ,
+                                                            COMPUTER ORGANIZATION AND ARCHITECTURE
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            24 Jul 2019
+                                                        ,
+                                                            Wednesday
+                                                        ,
+                                                            ECE 3101
+                                                        ,
+                                                            LINEAR AND DIGITAL CONTROL SYSTEMS
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            24 Jul 2019
+                                                        ,
+                                                            Wednesday
+                                                        ,
+                                                            ECE 3112
+                                                        ,
+                                                            VLSI LAB
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            25 Jul 2019
+                                                        ,
+                                                            Thursday
+                                                        ,
+                                                            ECE 3103
+                                                        ,
+                                                            ANALOG COMMUNICATION
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            25 Jul 2019
+                                                        ,
+                                                            Thursday
+                                                        ,
+                                                            ECE 3106
+                                                        ,
+                                                            COMPUTER ORGANIZATION AND ARCHITECTURE
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            25 Jul 2019
+                                                        ,
+                                                            Thursday
+                                                        ,
+                                                            ECE 3101
+                                                        ,
+                                                            LINEAR AND DIGITAL CONTROL SYSTEMS
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            25 Jul 2019
+                                                        ,
+                                                            Thursday
+                                                        ,
+                                                            ECE 3104
+                                                        ,
+                                                            VLSI DESIGN
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            26 Jul 2019
+                                                        ,
+                                                            Friday
+                                                        ,
+                                                            ECE 3103
+                                                        ,
+                                                            ANALOG COMMUNICATION
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            26 Jul 2019
+                                                        ,
+                                                            Friday
+                                                        ,
+                                                            ECE 3102
+                                                        ,
+                                                            MICROCONTROLLERS
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            26 Jul 2019
+                                                        ,
+                                                            Friday
+                                                        ,
+                                                            ECE 3104
+                                                        ,
+                                                            VLSI DESIGN
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            27 Jul 2019
+                                                        ,
+                                                            Saturday
+                                                        ,
+                                                            ECE 3105
+                                                        ,
+                                                            COMMUNICATION NETWORKS
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            27 Jul 2019
+                                                        ,
+                                                            Saturday
+                                                        ,
+                                                            ECE 3106
+                                                        ,
+                                                            COMPUTER ORGANIZATION AND ARCHITECTURE
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+                                                            27 Jul 2019
+                                                        ,
+                                                            Saturday
+                                                        ,
+                                                            ECE 3111
+                                                        ,
+                                                            MICROCONTROLLER LAB
+                                                        ,
+                                                            Present
+                                                            
+                                                        ,
+					
+						123456789
+					
+				,1,2,3,4,5,6,7,8,9
