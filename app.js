@@ -110,6 +110,6 @@ app.post("/getmarks", async (req, res) => {
   }
 });
 
-app.listen(3000, () => {
+app.listen(PROCESS.ENV.PORT || 3000, () => {
   console.log("Server running at port 3000");
 });
