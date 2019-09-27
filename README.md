@@ -34,6 +34,8 @@ After this send a POST request using POSTMAN to the route 'localhost:3000/getMar
 
 ## Output
 
+![outputimage0](https://i.ibb.co/rm6hhjH/slcm-Capture3.png)
+
 ![outputimage1](https://i.ibb.co/XCCPMDd/slcm-Capture-Two.png)
 
 ![outputimage2](https://i.ibb.co/vzMP6m2/slcm-Capture.png)
