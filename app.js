@@ -4,10 +4,13 @@ const axios = require("axios");
 const request = require("request");
 const puppeteer = require("puppeteer");
 const HTMLParser = require("node-html-parser");
+const bodyParser = require("body-parser");
 
 const app = express();
 
-app.use(express.json());
+// app.use(express.json());
+app.use(bodyParser.urlencoded({ extended: false }));
+app.set("view engine", "ejs");
 
 const homeUrl = "https://slcm.manipal.edu/loginForm.aspx";
 const acadsUrl = "https://slcm.manipal.edu/Academics.aspx";
@@ -42,14 +45,19 @@ const acadsUrl = "https://slcm.manipal.edu/Academics.aspx";
 //   });
 // });
 
+app.get("/", (req, res) => {
+  res.render("index");
+});
+
 app.post("/getmarks", async (req, res) => {
   try {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-
+    console.log(req.body.reg);
+    console.log(req.body.pass);
     await page.goto(homeUrl);
 
-    await page.type("#txtUserid", req.body.reg, { delay: 100 });
+    await page.type("#txtUserid", `${req.body.reg}`, { delay: 100 });
     await page.type("#txtpassword", req.body.pass, { delay: 100 });
     await page.keyboard.press("Enter");
 
