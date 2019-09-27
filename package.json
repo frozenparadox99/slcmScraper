@@ -2,7 +2,7 @@
   "name": "slcmscraper",
   "version": "1.0.0",
   "description": "MTTN task phase node scraper for slcm",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
